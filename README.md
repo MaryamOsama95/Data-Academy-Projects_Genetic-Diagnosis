@@ -31,12 +31,12 @@ Rare genetic disorders can recur in families, and premarital genetic testing is 
 ## Results
 
 ### Knowledge
-![Awareness of the genetic diagnosis](images/awareness_of_genetic_diagnosis_by_group.png)
+![Awareness of the genetic diagnosis](awareness_of_genetic_diagnosis_by_group.png)
 *Aware of the genetic diagnosis in the family (group 4 was asked about awareness before the first affected child)*
 
 - Awareness of the genetic diagnosis differed strongly between groups (chi-square = 343.0, p < 0.001, Cramér's V = 0.72): 91%, 87%, 79% and 10% in groups 1 to 4.
 
-![Awareness of PMT](images/awareness_of_pmt_by_group.png)
+![Awareness of PMT](awareness_of_pmt_by_group.png)
 *Aware that premarital genetic testing exists*
 
 - Awareness of PMT also differed (chi-square = 161.1, p < 0.001, Cramér's V = 0.50): 88%, 80%, 62% and 25%.

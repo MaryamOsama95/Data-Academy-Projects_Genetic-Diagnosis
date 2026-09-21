@@ -66,10 +66,10 @@ Rare genetic disorders can recur in families, and premarital genetic testing is 
 - 59%, 77% and 66% of groups 1-3 had been tested; 53%, 50% and 40% of those tested were carriers.
 
 ### Carriers versus non-carriers (groups 1-3)
-![Overall attitude score](images/overall_attitude_score_carriers_vs_noncarriers.png)
+![Overall attitude score](overall_attitude_score_carriers_vs_noncarriers.png)
 *Mean overall attitude and practice score (1-5); all groups fall in the "high" or "very high" range*
 
-![Carrier attitude scores](images/carriers_attitude_scores_by_group.png)
+![Carrier attitude scores](carriers_attitude_scores_by_group.png)
 *Carriers: mean agreement per statement*
 
 - Among carriers, only one statement differed significantly across groups: whether their carrier status affected or would cancel a marriage plan (Monte Carlo p = 0.006, Cramér's V = 0.30, moderate). Group 1 agreed most (mean 3.79) compared with group 2 (2.60) and group 3 (2.75).

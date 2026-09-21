@@ -45,22 +45,22 @@ Rare genetic disorders can recur in families, and premarital genetic testing is 
 - **PMT as a preventive option:** 83-90% strongly agreed in groups 1-3 and 86% in group 4, with no significant difference between groups.
 - **Psychological and social burden of rare genetic disease:** 66%, 83% and 75% of groups 1-3 strongly agreed; the difference was not significant at the 5% level (Monte Carlo p = 0.058, n = 305).
 
-![PMT voluntary or mandatory](images/pmt_voluntary_not_mandatory_by_group.png)
+![PMT voluntary or mandatory](pmt_voluntary_not_mandatory_by_group.png)
 *Should PMT be voluntary rather than mandatory?*
 
 - **Voluntary rather than mandatory:** 55-63% disagreed in every group, and the groups did not differ significantly (chi-square = 13.0, p = 0.37, Cramér's V = 0.08).
 
-![Appropriate timing](images/appropriate_timing_for_pmt_by_group.png)
+![Appropriate timing](appropriate_timing_for_pmt_by_group.png)
 *Appropriate timing for PMT*
 
 - **Timing:** more than 92% in every group chose age 18 or before starting marriage procedures; almost nobody chose after marriage.
 - **Advice to a couple who are both carriers:** 58-63% would advise consulting a genetic counsellor and 23-30% would advise ending the engagement.
 
 ### Practice
-![PMT uptake](images/pmt_uptake_groups_1_to_3.png)
+![PMT uptake](pmt_uptake_groups_1_to_3.png)
 *Underwent premarital genetic testing*
 
-![Carrier status](images/carrier_status_among_tested_groups_1_to_3.png)
+![Carrier status](carrier_status_among_tested_groups_1_to_3.png)
 *Carrier status among those tested*
 
 - 59%, 77% and 66% of groups 1-3 had been tested; 53%, 50% and 40% of those tested were carriers.
